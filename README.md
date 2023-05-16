@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm EJ</h1>
 <h3 align="center">I make cool stuff</h3>
-<h3 align="center">Network Engineer</h3>
+<h3 align="center">Network/Systems Engineer</h3>
+<h3 align="center">You can hire me</h3>
 <h3 align="center">I hate BGP</h3>
 <h3 align="center">Only layers 1-7</h3>
 
