@@ -5,8 +5,6 @@
 <h3 align="center">Working with Datashroom to grow mushrooms with data centre wasted heat!</h3>
 <h3 align="center">Layers 8, 9 and 10 are strictly prohibited here 😉</h3>
 <br>
-<h3 align="center">The future that lays ahead of us in the next 10-20 years is dark. If AGI can replace all humans, what is the point in human life?<br>I promise you, AGI will be the last thing humans ever invent. Humans will not act until it's too late.<br>
-However, there may be hope. For those interested in joining our force of elite human experts, please get in touch by emailing future@cyberchatai.com.</h3>
 
 <br>
 <br>
