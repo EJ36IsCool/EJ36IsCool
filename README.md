@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm EJ</h1>
 <h3 align="center">💻 Cloud Systems Engineer and Owner of <a href="https://github.com/Bubble-Hosting">Bubble Hosting</a></h3>
 <h3 align="center">🌐 Owner and Leading Engineer of <a href="https://vortexdatacentres.com/">Vortex Data Centres</a></h3>
-<h3 align="center">Working on the development of future technology and quantum computing</h3>
+<h3 align="center">Working on the development of future AI technology</h3>
 <h3 align="center">Working with Datashroom to grow mushrooms with data centre wasted heat!</h3>
 <h3 align="center">Layers 8, 9 and 10 are strictly prohibited here 😉</h3>
 <br>
@@ -15,15 +15,13 @@
 <h3 align="left">Some other stuff I do...</h3>
 <p align="left">
   - Machine learning, AI and automation<br>
-  - Computational quantum mechanics<br>
   - BGP + other internet routing protocols<br>
   - Data centre networking<br>
   - Data centre design, building and consultancy<br>
   - Mission critical infrastructure<br>
   - Data centre BMS and electrical systems<br>
   - HPC and mainframe infrastructure<br>
-  - 3D Render farms<br>
   - Game servers at scale<br>
   - Mass server deployment<br>
-  - Backrooms exploration (This is a joke...)
+  - Backrooms exploration
 </p>
