@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm EJ</h1>
-<h3 align="center">💻 Cloud Systems Engineer and Owner of <a href="https://github.com/Bubble-Hosting">Bubble Hosting</a></h3>
-<h3 align="center">🌐 Owner and Leading Engineer of <a href="https://vortexdatacentres.com/">Vortex Data Centres</a></h3>
-<h3 align="center">Working on the development of future AI technology</h3>
-<h3 align="center">Working with Datashroom to grow mushrooms with data centre wasted heat!</h3>
 <h3 align="center">Layers 8, 9 and 10 are strictly prohibited here 😉</h3>
 <br>
 
